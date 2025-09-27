@@ -1,0 +1,17 @@
+body{
+    /*background-image:url('Ls.jpg') ;
+    background-size: cover;*/
+    background-color: rgb(95, 226, 220);
+    color: black;
+    font-weight: bold;
+    
+}
+.navbar{
+   display: flex; 
+   justify-content: space-between;
+   align-items: center;
+}
+.button{
+    display: flex;
+    gap: 5px;
+}
